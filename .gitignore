@@ -1,5 +1,5 @@
 # Cargo puts binaries here
-/target/
+target/
 
 # rustfmt backup files
 **/*.rs.bk
