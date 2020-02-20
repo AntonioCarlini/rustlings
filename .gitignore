@@ -3,3 +3,6 @@ target/
 
 # rustfmt backup files
 **/*.rs.bk
+
+# emacs backup files
+*~
